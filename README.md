@@ -1,3 +1,4 @@
+Hosted Site: https://tiaraoluwanimi.github.io/Frontend-Mentor-Junior-Clipboard-landing-page/
 # Frontend Mentor - Clipboard landing page
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
